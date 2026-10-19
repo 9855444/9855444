@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/9855444?tab=followers"><img src="https://img.shields.io/github/followers/9855444?label=Followers&style=flat-square&color=38bdf8&labelColor=0d1117" alt="followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=9855444&label=Profile%20Views&color=38bdf8&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-38bdf8?style=flat-square&labelColor=0d1117" alt="focus" />
+  <img src="https://img.shields.io/badge/Status-Learning-7ee787?style=flat-square&labelColor=0d1117" alt="status" />
 </p>
 
 ---
