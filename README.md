@@ -68,8 +68,7 @@
 ## GitHub 数据
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=9855444&show_icons=true&hide_border=true&theme=tokyonight&locale=cn&include_all_commits=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9855444&layout=compact&hide_border=true&theme=tokyonight&locale=cn&langs_count=8" alt="Top Languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9855444&theme=tokyonight" alt="贡献概览" />
 </p>
 
 <p align="center">
