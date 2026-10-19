@@ -33,6 +33,35 @@
 | 工程 | `Linux` · `Git` · `Docker` |
 | 数据 | `Label Studio` · `CVAT` · `Albumentations` |
 
+## 精选项目
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/9855444/cv-inspect-kit">cv-inspect-kit</a></h3>
+      缺陷检测最小流水线：数据检查 → 按场景划分 → 训练 → 导出 ONNX → 推理测速。<br />
+      <sub><code>Python</code> · <code>ONNX</code> · <code>OpenCV</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/9855444/cv-notes">cv-notes</a></h3>
+      机器视觉工程笔记：相机标定、模型部署、数据标注的实操要点与检查清单。<br />
+      <sub><code>Docs</code> · <code>Calibration</code> · <code>Deployment</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/9855444/trt-bench">trt-bench</a></h3>
+      推理基准工具：延迟分位数、吞吐与精度对比，强调可复现的测量方法。<br />
+      <sub><code>Python</code> · <code>ONNXRuntime</code> · <code>TensorRT</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>下一步</h3>
+      完整的缺陷检测 demo 与 TensorRT 部署实践，边做边开源。<br />
+      <sub><code>WIP</code></sub>
+    </td>
+  </tr>
+</table>
+
 ## 关注方向
 
 <table>
@@ -61,9 +90,9 @@
 ## 阶段目标
 
 - [x] 跑通第一个目标检测项目（数据标注 → 训练 → 推理）
+- [x] 搭起可复用的检测流水线与笔记体系
 - [ ] 完成一个完整的工业缺陷检测 demo，并整理成仓库
 - [ ] 掌握 TensorRT 部署，把推理延迟压到实时
-- [ ] 持续输出机器视觉学习笔记
 
 ## GitHub 数据
 
@@ -72,7 +101,14 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=9855444&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
+  <img height="150" src="https://streak-stats.demolab.com?user=9855444&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9855444&layout=compact&hide_border=true&theme=tokyonight&locale=cn&langs_count=6" alt="Top Languages" />
+</p>
+
+## 贡献动画
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/9855444/9855444/output/github-snake-dark.svg" alt="贡献蛇动画" />
 </p>
 
 ## 联系
