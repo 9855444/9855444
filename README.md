@@ -5,7 +5,7 @@
 <h3 align="center">在校生 · 机器视觉方向 · 把课堂上的算法做成能跑起来的东西</h3>
 
 <p align="center">
-  <a href="https://github.com/9855444?tab=followers"><img src="https://img.shields.io/github/followers/9855444?label=Followers&style=flat-square&color=38bdf8&labelColor=0d1117" alt="followers" /></a>
+  <a href="https://github.com/cv-malin?tab=followers"><img src="https://img.shields.io/github/followers/cv-malin?label=Followers&style=flat-square&color=38bdf8&labelColor=0d1117" alt="followers" /></a>
   <img src="https://img.shields.io/badge/Focus-Computer%20Vision-38bdf8?style=flat-square&labelColor=0d1117" alt="focus" />
   <img src="https://img.shields.io/badge/Status-Learning-7ee787?style=flat-square&labelColor=0d1117" alt="status" />
 </p>
@@ -38,19 +38,19 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/9855444/cv-inspect-kit">cv-inspect-kit</a></h3>
+      <h3><a href="https://github.com/cv-malin/cv-inspect-kit">cv-inspect-kit</a></h3>
       缺陷检测最小流水线：数据检查 → 按场景划分 → 训练 → 导出 ONNX → 推理测速。<br />
       <sub><code>Python</code> · <code>ONNX</code> · <code>OpenCV</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/9855444/cv-notes">cv-notes</a></h3>
+      <h3><a href="https://github.com/cv-malin/cv-notes">cv-notes</a></h3>
       机器视觉工程笔记：相机标定、模型部署、数据标注的实操要点与检查清单。<br />
       <sub><code>Docs</code> · <code>Calibration</code> · <code>Deployment</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/9855444/trt-bench">trt-bench</a></h3>
+      <h3><a href="https://github.com/cv-malin/trt-bench">trt-bench</a></h3>
       推理基准工具：延迟分位数、吞吐与精度对比，强调可复现的测量方法。<br />
       <sub><code>Python</code> · <code>ONNXRuntime</code> · <code>TensorRT</code></sub>
     </td>
@@ -97,19 +97,19 @@
 ## GitHub 数据
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9855444&theme=tokyonight" alt="贡献概览" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cv-malin&theme=tokyonight" alt="贡献概览" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=9855444&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9855444&layout=compact&hide_border=true&theme=tokyonight&locale=cn&langs_count=6" alt="Top Languages" />
+  <img height="150" src="https://streak-stats.demolab.com?user=cv-malin&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cv-malin&layout=compact&hide_border=true&theme=tokyonight&locale=cn&langs_count=6" alt="Top Languages" />
 </p>
 
 ## 联系
 
 <p align="center">
-  <a href="https://github.com/9855444"><img src="https://img.shields.io/badge/GitHub-9855444-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:9855444@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-9855444@users.noreply.github.com-38bdf8?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/cv-malin"><img src="https://img.shields.io/badge/GitHub-cv-malin-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:344663219+cv-malin@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-344663219+cv-malin@users.noreply.github.com-38bdf8?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <div align="center">
