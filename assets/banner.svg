@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="AI 机器视觉工程师">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a101c"/>
+      <stop offset="50%" stop-color="#0d1b2a"/>
+      <stop offset="100%" stop-color="#12263a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1b3a5c" stroke-width="1" opacity="0.45"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <g stroke="#38bdf8" stroke-width="3" fill="none" opacity="0.85">
+    <path d="M48 96V56h40"/>
+    <path d="M1152 96V56h-40"/>
+    <path d="M48 224v40h40"/>
+    <path d="M1152 224v40h-40"/>
+  </g>
+
+  <g fill="none">
+    <rect x="792" y="104" width="170" height="112" rx="4" stroke="#7ee787" stroke-width="2" opacity="0.95"/>
+    <rect x="984" y="72" width="132" height="176" rx="4" stroke="#a78bfa" stroke-width="2" opacity="0.9"/>
+  </g>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="13">
+    <rect x="792" y="84" width="88" height="20" rx="3" fill="#7ee787" opacity="0.92"/>
+    <text x="800" y="98" fill="#0a101c" font-weight="700">defect 0.98</text>
+    <rect x="984" y="52" width="98" height="20" rx="3" fill="#a78bfa" opacity="0.92"/>
+    <text x="992" y="66" fill="#0a101c" font-weight="700">part 0.93</text>
+  </g>
+
+  <rect x="0" y="268" width="1200" height="1" fill="url(#fade)"/>
+
+  <text x="96" y="146" font-family="'PingFang SC','Microsoft YaHei','Segoe UI',sans-serif" font-size="46" font-weight="700" fill="#e8eef7">AI 机器视觉工程师</text>
+  <rect x="96" y="164" width="112" height="4" rx="2" fill="url(#accent)"/>
+  <text x="96" y="204" font-family="'Segoe UI',sans-serif" font-size="19" fill="#94a7bd">Computer Vision · Student · Industrial Inspection</text>
+  <text x="96" y="244" font-family="ui-monospace, Consolas, monospace" font-size="15" fill="#58a6ff" letter-spacing="2">@9855444</text>
+</svg>
