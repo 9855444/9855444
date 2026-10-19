@@ -105,12 +105,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9855444&layout=compact&hide_border=true&theme=tokyonight&locale=cn&langs_count=6" alt="Top Languages" />
 </p>
 
-## 贡献动画
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/9855444/9855444/output/github-snake-dark.svg" alt="贡献蛇动画" />
-</p>
-
 ## 联系
 
 <p align="center">
