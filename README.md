@@ -55,9 +55,9 @@
       <sub><code>Python</code> · <code>ONNXRuntime</code> · <code>TensorRT</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>下一步</h3>
-      完整的缺陷检测 demo 与 TensorRT 部署实践，边做边开源。<br />
-      <sub><code>WIP</code></sub>
+      <h3><a href="https://github.com/cv-malin/neon-dodge">neon-dodge</a></h3>
+      零依赖霓虹风躲避小游戏，键盘 / 鼠标 / 触屏可玩，擦身加分。<br />
+      <sub><code>JavaScript</code> · <code>Canvas</code> · <code>Game</code></sub>
     </td>
   </tr>
 </table>
