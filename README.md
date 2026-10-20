@@ -56,8 +56,8 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cv-malin/neon-dodge">neon-dodge</a></h3>
-      零依赖霓虹风躲避小游戏，键盘 / 鼠标 / 触屏可玩，擦身加分。<br />
-      <sub><code>JavaScript</code> · <code>Canvas</code> · <code>Game</code></sub>
+      零依赖霓虹躲避小游戏：三档难度、每日挑战、道具磁吸与本地统计，擦身加分。<br />
+      <sub><code>JavaScript</code> · <code>Canvas</code> · <code>Daily</code></sub>
     </td>
   </tr>
 </table>
